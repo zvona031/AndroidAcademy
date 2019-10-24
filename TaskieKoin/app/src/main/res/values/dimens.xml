@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="match_constraint">0dp</dimen>
+    <dimen name="text_size_heading">30sp</dimen>
+    <dimen name="margin_large">12dp</dimen>
+    <dimen name="width_details_priority">100dp</dimen>
+    <dimen name="height_details_priority">100dp</dimen>
+    <dimen name="width_item_priority">36dp</dimen>
+    <dimen name="height_item_priority">36dp</dimen>
+    <dimen name="margin_radio_button">12dp</dimen>
+    <dimen name="padding_radio_group">14dp</dimen>
+    <dimen name="padding_dialog">25dp</dimen>
+</resources>

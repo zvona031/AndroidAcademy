@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaskieFragments</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tasks">Tasks</string>
+    <string name="about">About</string>
+    <string name="title_hello_about_author_fragment">Hello About Author Fragment</string>
+    <string name="title_hello_about_app_fragment">Hello About App Fragment</string>
+</resources>
